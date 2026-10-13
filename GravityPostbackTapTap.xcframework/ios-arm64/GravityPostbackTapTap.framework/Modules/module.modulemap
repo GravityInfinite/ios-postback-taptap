@@ -1,0 +1,6 @@
+framework module GravityPostbackTapTap {
+  umbrella header "GravityPostbackTapTap.h"
+  export *
+
+  module * { export * }
+}
